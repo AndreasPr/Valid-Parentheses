@@ -1,3 +1,3 @@
 # Valid Parentheses
 
-Implementated in Java
+Implementation in Java
